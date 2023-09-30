@@ -6,7 +6,7 @@ Node verstion:
 Setup for Local
 -------------
 - make a new local project folder call EcommerceProject
-- Cd `to your new local project folder`
+- Cd `to your EcommerceProject folder`
 - `git init`
 - `git remote add origin git@github.com:HugoChen1212/EcommerceProject.git`
 - `git pull origin main`
