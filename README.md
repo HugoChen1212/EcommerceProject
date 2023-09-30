@@ -13,4 +13,4 @@ Setup for Local
 - `git branch` check which branch you are on, if you are on master branch need to run `git fetch origin main` then run `git checkout main`
 -  Please branch of from main to a new components or update
 - cd EcommerceProject
-- run `npm run ios` or `npm run android` or `npm run web`
+- run `npm run ios` or `npm run android` or `npm run web` to testing the app project
